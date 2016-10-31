@@ -1,4 +1,8 @@
-package seperate;
+/***************************************************
+*	A tic tac toe game for 2 players
+*	Made as a test and uses 1 class
+****************************************************/
+
 import java.util.Scanner;
 
 public class TicTacToe {
