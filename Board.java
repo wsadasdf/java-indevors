@@ -1,8 +1,13 @@
-package seperate;
+/***************************************
+*	contains most the logic for 
+*	running the game
+****************************************/
+
 import java.util.Scanner;
+
 public class Board
 {
-	private char[][] board=new char[3][3];//instance variables
+	private char[][] board=new char[3][3];//instance variable(s)
 	
 	public Board()
 	{
